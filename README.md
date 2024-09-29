@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm halis najibi</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">I am an Informatics Engineering student who has a high interest and enthusiasm in software development and information technology</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
